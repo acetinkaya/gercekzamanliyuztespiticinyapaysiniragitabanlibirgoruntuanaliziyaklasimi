@@ -4,6 +4,10 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 ## Yazarlar
 
+- **Cemil İlyas**    
+  İstanbul Gelişim Üniversitesi, 
+
+
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
 
 
