@@ -36,6 +36,6 @@ Yapılan deneyler sonucunda, yüz tespitinde %40 ile %92,75 arasında başarı o
 
 ## Referans Alma İşlemi // How to Cite
 
-
+• APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
