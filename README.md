@@ -28,7 +28,7 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 ## Özet:
 
-Görüntü işleme
+Görüntü işleme ve Yapay Zeka (YZ) 
 
 
 
