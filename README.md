@@ -1,1 +1,1 @@
-# Gerçek Zamanlı Yüz Tespiti İçin
+# Gerçek Zamanlı Yüz Tespiti İçin Yapay Sinir Ağı Tabanlı 
