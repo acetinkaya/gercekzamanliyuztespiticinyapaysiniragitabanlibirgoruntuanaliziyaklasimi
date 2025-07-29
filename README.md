@@ -28,6 +28,10 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 ## Özet:
 
+Görüntü işleme
+
+
+
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
 
 
