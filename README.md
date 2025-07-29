@@ -32,6 +32,8 @@ Görüntü işleme ve Yapay Zeka (YZ) teknolojilerindeki son gelişmeler, yüz t
 yüksek doğruluk ve hız sunarak kritik bir rol oynamaktadır. Bu çalışmanın amacı, yapay sinir ağı tabanlı yöntemler kullanarak gerçek zamanlı görüntülerde yüz bölgesi tespiti yapan sistemlerin performansını artırmak ve bu sistemlere yönelik iyileştirme önerileri sunmaktır. Bu bağlamda, YZ tabanlı yüz tespit sistemlerinin optimizasyonu, sinir ağı tabanlı çözümler ve performans iyileştirme yöntemleri ele alınmıştır. Geliştirilen sistemde, bir kamera aracılığıyla anlık ve sabit görüntüler alınmış ve görüntüler ön işleme aşamasından geçirilmiştir. Ön işleme sürecinde kontrast ve parlaklık ayarları, yüz bölgesinin belirlenmesi ve kenar tespiti (Canny) algoritması işlemleri uygulanarak modelin doğruluğu artırılmıştır. Ardından, ArcFace, Haar-cascade ve CNN tabanlı yüz bölge tespiti modeli çalıştırılarak tespit edilen yüzler analiz edilmiştir. Toplam 15 adet deney gerçekleştirilerek tespit edilen yüz bilgisi ekrana yansıtılarak tanıma oranı hesaplanmaktadır. 
 Yapılan deneyler sonucunda, yüz tespitinde %40 ile %92,75 arasında başarı oranları elde edilmiştir. Bu çalışmada, deneyler gerçek zamanlı olarak kamera üzerinden elde edilen görüntülerle gerçekleştirilmiştir. Ek olarak, deney çeşitliliğini artırmak amacıyla aktör yüz görüntülerinden oluşan bir veri seti de çalışmaya dahil edilmiştir. Çalışmanın bulguları, YZ tabanlı yüz bölge tespiti modellerinin başarı oranlarını nasıl etkilediğini göstermekte ve bu sistemlerin optimum performansla çalışabilmesi için öneriler sunmaktadır.
 
+## Anahtar 
+
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
 
 
