@@ -9,7 +9,7 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
   [Orcid ID: 0009-0009-0537-1146](https://orcid.org/0009-0009-0537-1146)
 
 - **Barış Köse**    
-
+  İstanbul Gelişim Üniversitesi,
 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
