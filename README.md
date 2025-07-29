@@ -28,7 +28,7 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 ## Özet:
 
-Görüntü işleme ve Yapay Zeka (YZ) teknolojilerindeki son gelişmeler, yüz tespit ve tanıma sistemlerinin 
+Görüntü işleme ve Yapay Zeka (YZ) teknolojilerindeki son gelişmeler, yüz tespit ve tanıma sistemlerinin performansını önemli ölçüde artırmıştır. 
 
 
 
