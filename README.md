@@ -1,5 +1,5 @@
 # Gerçek Zamanlı Yüz Tespiti İçin Yapay Sinir Ağı Tabanlı Bir Görüntü Analizi Yaklaşımı //   
-A Neural Network-Based 
+A Neural Network-Based Image Analysis Approach for Real-Time Face Detection
 
 
 
