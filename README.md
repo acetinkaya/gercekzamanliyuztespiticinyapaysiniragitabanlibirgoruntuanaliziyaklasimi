@@ -34,6 +34,8 @@ Yapılan deneyler sonucunda, yüz tespitinde %40 ile %92,75 arasında başarı o
 
 ## Anahtar Kelimeler: Görüntü İşleme, Yapay Sinir Ağı, Yüz Tespiti, OpenCv, ArcFace
 
+## Referans Alma İşlemi // How to Cite
+
+
+
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
-
-
