@@ -6,7 +6,9 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 - **Cemil İlyas**    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye    
-  [Orcid ID: 0009-0009-0537-1146]
+  [Orcid ID: 0009-0009-0537-1146](https://orcid.org/0009-0009-0537-1146)
+
+
 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
