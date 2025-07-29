@@ -28,8 +28,7 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 ## Özet:
 
-Görüntü işleme ve Yapay Zeka (YZ) teknolojilerindeki son gelişmeler, yüz tespit ve tanıma sistemlerinin performansını önemli ölçüde artırmıştır. Gerçek zamanlı görüntü analizi gerektiren yüz bölge tespiti çalışmalarında, 
-
+Görüntü işleme ve Yapay Zeka (YZ) teknolojilerindeki son gelişmeler, yüz tespit ve tanıma sistemlerinin performansını önemli ölçüde artırmıştır. Gerçek zamanlı görüntü analizi gerektiren yüz bölge tespiti çalışmalarında, YZ tabanlı uygulamalar 
 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
