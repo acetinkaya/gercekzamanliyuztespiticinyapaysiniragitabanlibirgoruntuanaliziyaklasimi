@@ -22,7 +22,6 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 * İletişim Adresi / For Correspondence: alcetinkaya@gelisim.edu.tr*
 
-
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
 
-
+## Makale
