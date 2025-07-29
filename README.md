@@ -13,7 +13,8 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
   [Orcid ID: 0009-0000-6354-3860](https://orcid.org/0009-0000-6354-3860)
 
 - **Aslı Türk**    
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, 
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye    
+
 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
