@@ -24,7 +24,8 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 ## Makale Bilgileri:
 - **Yayın Tarihi**: 23.06.2025   
-- **Makalenin Tam Metnine Erişim Adresi**: [Gerçek Zamanlı Yüz Tespiti İçin Yapay Sinir Ağı Tabanlı Bir Görüntü Analizi Yaklaşımı]
+- **Makalenin Tam Metnine Erişim Adresi**: [Gerçek Zamanlı Yüz Tespiti İçin Yapay Sinir Ağı Tabanlı Bir Görüntü Analizi Yaklaşımı](https://dergipark.org.tr/tr/pub/veri/issue/92570/1663185)
+
 ## Özet:
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
