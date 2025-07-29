@@ -29,8 +29,7 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 ## Özet:
 
 Görüntü işleme ve Yapay Zeka (YZ) teknolojilerindeki son gelişmeler, yüz tespit ve tanıma sistemlerinin performansını önemli ölçüde artırmıştır. Gerçek zamanlı görüntü analizi gerektiren yüz bölge tespiti çalışmalarında, YZ tabanlı uygulamalar 
-yüksek doğruluk ve hız sunarak kritik bir rol oynamaktadır. Bu çalışmanın amacı, yapay sinir ağı tabanlı yöntemler kullanarak gerçek zamanlı görüntülerde yüz bölgesi tespiti yapan sistemlerin performansını artırmak ve bu sistemlere yönelik iyileştirme önerileri sunmaktır. Bu bağlamda, YZ tabanlı yüz tespit sistemlerinin optimizasyonu, 
-
+yüksek doğruluk ve hız sunarak kritik bir rol oynamaktadır. Bu çalışmanın amacı, yapay sinir ağı tabanlı yöntemler kullanarak gerçek zamanlı görüntülerde yüz bölgesi tespiti yapan sistemlerin performansını artırmak ve bu sistemlere yönelik iyileştirme önerileri sunmaktır. Bu bağlamda, YZ tabanlı yüz tespit sistemlerinin optimizasyonu, sinir ağı tabanlı çözümler ve performans iyileştirme yöntemleri ele alınmıştır. 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
 
