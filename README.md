@@ -40,5 +40,6 @@ Yapılan deneyler sonucunda, yüz tespitinde %40 ile %92,75 arasında başarı o
 
 License:
 
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
