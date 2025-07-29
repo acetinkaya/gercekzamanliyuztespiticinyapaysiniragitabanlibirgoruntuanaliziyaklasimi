@@ -14,6 +14,8 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 
 - **Aslı Türk**    
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye    
+  [Orcid ID: 0009-0002-6528-6428](https://orcid.org/0009-0002-6528-6428)
+
 
 
 
