@@ -5,7 +5,8 @@ Bu çalışma, İstanbul Gelişim Üniversitesi İstanbul Gelişim Meslek Yükse
 ## Yazarlar
 
 - **Cemil İlyas**    
-  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı,
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojisi Programı, İstanbul / Türkiye    
+  [Orcid ID: 0009-0009-0537-1146]
 
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
