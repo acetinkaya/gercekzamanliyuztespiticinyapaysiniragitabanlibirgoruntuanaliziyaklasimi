@@ -36,6 +36,9 @@ Yapılan deneyler sonucunda, yüz tespitinde %40 ile %92,75 arasında başarı o
 
 ## Referans Alma İşlemi // How to Cite
 
-• APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). Gerçek Zamanlı Yüz Tespiti İçin Yapay Sinir Ağı Tabanlı Bir Görüntü Analizi Yaklaşımı. 
+• APA: İlyas, C., Köse, B., Türk, A., & Çetinkaya, A., (2025). Gerçek Zamanlı Yüz Tespiti İçin Yapay Sinir Ağı Tabanlı Bir Görüntü Analizi Yaklaşımı. Veri Bilimi, cilt.8, sa.1, 77-88.
+
+License:
+
 
 ![alternatif metin](https://github.com/acetinkaya/gercekzamanliyuztespiticinyapaysiniragitabanlibirgoruntuanaliziyaklasimi/blob/main/ysa1.png)
